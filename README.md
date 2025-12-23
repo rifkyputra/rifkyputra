@@ -19,9 +19,6 @@
 | **Infrastructure** | Cloudflare Workers/R2, AWS (EC2/S3/ECS), Docker, Kubernetes |
 | **Databases** | PostgreSQL, Redis, MongoDB, SQLite, Turso |
 
-### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifkyputra)](https://github.com/rifkyputra/github-readme-stats)
-
 ---
 
 ### 🛠️ Open Source & Experiments
