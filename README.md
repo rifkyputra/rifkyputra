@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Rifky! 👋 
 
-<!--
-**rifkyputra/rifkyputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Full Stack Developer | Software Engineer** Specializing in building scalable, reliable, and accessible applications using modern web technologies. Based in Indonesia, working with global teams.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm currently working on
+- 🛠️ **[Galeriee](https://galeri.ee)**: A collaborative gallery app built with **Tanstack Start**, **FFmpeg**, and **Cloudflare R2**.
+- 🔭 **EngageRocket**: Improving employee engagement platforms using **React** and **Go**.
+- ✍️ Occasional open-source contributor to networking tools and Linux desktop enhancements.
+
+### 💻 My Tech Stack
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | TypeScript, Go, Dart (Flutter), Python, Rust (Basic), Bash |
+| **Frontend** | React, TanStack Start, SvelteKit, Vue, Tailwind CSS, GSAP |
+| **Backend** | Hono, NestJS, Go Fiber, Node.js (Koa/Express), tRPC |
+| **Infrastructure** | Cloudflare Workers/R2, AWS (EC2/S3/ECS), Docker, Kubernetes |
+| **Databases** | PostgreSQL, Redis, MongoDB, SQLite, Turso |
+
+### 📊 GitHub Stats
+![Rifky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifkyputra&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifkyputra&layout=compact&theme=transparent)
+
+---
+
+### 🛠️ Open Source & Experiments
+- **sshii / uwuhomelab**: Personal networking and homelab automation tools.
+- **KppleMenu**: A customized menu experience for Linux desktops.
+- **honotan**: Experiments with the Hono ecosystem and modern state management.
+
+### 📫 Let's Connect
+- **Website:** [pir.my.id](https://pir.my.id)
+- **LinkedIn:** [linkedin.com/in/rifptra](https://linkedin.com/in/rifptra)
+- **Email:** [rifkyadp@gmail.com](mailto:rifkyadp@gmail.com)
+
+---
+*"Passionate about solving real-world problems with modern and pragmatic full-stack approaches."*
