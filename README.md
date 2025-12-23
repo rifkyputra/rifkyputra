@@ -13,15 +13,14 @@
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | TypeScript, Go, Dart (Flutter), Python, Rust (Basic), Bash |
-| **Frontend** | React, TanStack Start, SvelteKit, Vue, Tailwind CSS, GSAP |
-| **Backend** | Hono, NestJS, Go Fiber, Node.js (Koa/Express), tRPC |
+| **Languages** | TypeScript, Go, Dart, Python, Rust (Basic), Bash |
+| **Frontend** | React, TanStack Start, Flutter, SvelteKit |
+| **Backend** | Node.js (Nest/Koa/Express/Hono), Go Fiber |
 | **Infrastructure** | Cloudflare Workers/R2, AWS (EC2/S3/ECS), Docker, Kubernetes |
 | **Databases** | PostgreSQL, Redis, MongoDB, SQLite, Turso |
 
 ### 📊 GitHub Stats
-![Rifky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifkyputra&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifkyputra&layout=compact&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifkyputra)](https://github.com/rifkyputra/github-readme-stats)
 
 ---
 
