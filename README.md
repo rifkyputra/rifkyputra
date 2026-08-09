@@ -12,7 +12,7 @@
 ## 📦 Products
 
 - 🧪 **[Devlyn](https://withdevlyn.com)**: A formula-management platform — recipes, automatic cost calculation, and compliance docs, for home kitchens through factories (F&B, cosmetics, pharma, crafts).
-- 📚 **[Indokorpus](https://indokorpus.withdevlyn.com/) + GlasTakar**: An Indonesian-language corpus library, paired with a pharmacy-domain LLM benchmark whose answer keys are signed off by licensed pharmacists.
+- 📚 **[Indokorpus](https://indokorpus.withdevlyn.com/)**: An Indonesian-language corpus library of public-domain books and transcripts, with an editorial reader and a RAG research agent over the corpus.
 
 ## 💻 My Tech Stack
 
