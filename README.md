@@ -4,30 +4,42 @@
 
 ---
 
-### 🚀 What I'm currently working on
-- 🛠️ **[Galeriee](https://galeri.ee)**: A collaborative gallery app built with **Tanstack Start**, **FFmpeg**, and **Cloudflare R2**.
-- 🔭 **EngageRocket**: Improving employee engagement platforms using **React** and **Go**.
+## 🚀 What I'm currently working on
+
+- 🔭 **Micromeet**: R&D on an AI Command Centre and agent-based cowork tooling — LLM pipelines, prompt evaluation, MCU Platform and the infrastructure around them.
 - ✍️ Occasional open-source contributor to networking tools and Linux desktop enhancements.
 
-### 💻 My Tech Stack
+## 📦 Products
+
+- 🧪 **[Devlyn](https://withdevlyn.com)**: A formula-management platform — recipes, automatic cost calculation, and compliance docs, for home kitchens through factories (F&B, cosmetics, pharma, crafts).
+- 📚 **[Indokorpus](https://indokorpus.withdevlyn.com/) + GlasTakar**: An Indonesian-language corpus library, paired with a pharmacy-domain LLM benchmark whose answer keys are signed off by licensed pharmacists.
+
+## 💻 My Tech Stack
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | TypeScript, Go, Dart, Python, Rust (Basic), Bash |
-| **Frontend** | React, TanStack Start, Flutter, SvelteKit |
-| **Backend** | Node.js (Nest/Koa/Express/Hono), Go Fiber |
+| **Languages** | TypeScript, Go, Rust, Dart, Python, Bash |
+| **Frontend** | React, TanStack Start, SvelteKit, Flutter |
+| **Backend** | Node.js (Nest/Koa/Express/Hono), Go Fiber, Bun |
+| **AI / LLM** | Claude API, agent tooling, prompt & eval pipelines |
 | **Infrastructure** | Cloudflare Workers/R2, AWS (EC2/S3/ECS), Docker, Kubernetes |
 | **Databases** | PostgreSQL, Redis, MongoDB, SQLite, Turso |
 
+*probably this is outdated since AI do the coding now
+
 ---
 
-### 🛠️ Open Source & Experiments
-- **sshii / uwuhomelab**: Personal networking and homelab automation tools.
-- **KppleMenu**: A customized menu experience for Linux desktops.
-- **honotan**: Experiments with the Hono ecosystem and modern state management.
+## 🛠️ Open Source & Experiments
 
-### 📫 Let's Connect
-- **Website:** [pir.my.id](https://pir.my.id)
+- **[postlab](https://github.com/rifkyputra/postlab)**: Interactive TUI to manage bare-metal & homelab servers, written in **Rust**.
+- **[dockyy](https://github.com/rifkyputra/dockyy)**: Docker management dashboard in **Rust**.
+- **[sshii](https://github.com/rifkyputra/sshii)**: SSH key selection for repos juggling multiple keys.
+- **[honotan-cli](https://github.com/rifkyputra/honotan-cli)**: Hexagonal-pattern generator for the Hono ecosystem.
+- **[soundboard-pwa](https://github.com/rifkyputra/soundboard-pwa)**: Offline-first soundboard PWA in TypeScript.
+
+## 📫 Let's Connect
+
+- **Website:** [pir.my.id](https://pir.my.id) · [rifky.gnomix.id](https://rifky.gnomix.id)
 - **LinkedIn:** [linkedin.com/in/rifptra](https://linkedin.com/in/rifptra)
 - **Email:** [rifkyadp@gmail.com](mailto:rifkyadp@gmail.com)
 
