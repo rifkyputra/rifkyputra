@@ -36,6 +36,7 @@
 - **[sshii](https://github.com/rifkyputra/sshii)**: SSH key selection for repos juggling multiple keys.
 - **[honotan-cli](https://github.com/rifkyputra/honotan-cli)**: Hexagonal-pattern generator for the Hono ecosystem.
 - **[soundboard-pwa](https://github.com/rifkyputra/soundboard-pwa)**: Offline-first soundboard PWA in TypeScript.
+- **[kuadrat](https://github.com/rifkyputra/kuadrat)**: Podman Quadlet deployment daemon for a single host or fleet.
 
 ## 📫 Let's Connect
 
