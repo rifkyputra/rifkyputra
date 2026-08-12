@@ -32,7 +32,6 @@
 ## 🛠️ Open Source & Experiments
 
 - **[postlab](https://github.com/rifkyputra/postlab)**: Interactive TUI to manage bare-metal & homelab servers, written in **Rust**.
-- **[dockyy](https://github.com/rifkyputra/dockyy)**: Docker management dashboard in **Rust**.
 - **[sshii](https://github.com/rifkyputra/sshii)**: SSH key selection for repos juggling multiple keys.
 - **[honotan-cli](https://github.com/rifkyputra/honotan-cli)**: Hexagonal-pattern generator for the Hono ecosystem.
 - **[soundboard-pwa](https://github.com/rifkyputra/soundboard-pwa)**: Offline-first soundboard PWA in TypeScript.
